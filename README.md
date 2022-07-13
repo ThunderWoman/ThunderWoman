@@ -12,7 +12,9 @@
 <a href="mailto:yuliiasigva@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/gmail.png" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=gray)
+
 <br />
 <br />
 
