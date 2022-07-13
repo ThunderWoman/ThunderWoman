@@ -28,6 +28,7 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
   <img height="30" title="WebStorm" src="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
   <img height="30" title="VSC" src="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
 </a>
@@ -37,14 +38,14 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
   <img height="30" title="TypeScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
 </a>
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJs_2.png">
-  <img height="30" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJs_2.png">
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/node_js.png">
+  <img height="30" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/node_js.png">
 </a>
 <!-- <a href="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
   <img height="30" title="NestJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
 </a>-->
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
-  <img height="30" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
+  <img height="30" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
 </a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
   <img height="30" title="MySQL" src="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
