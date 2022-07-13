@@ -49,8 +49,8 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
   <img height="30" title="NestJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
 </a>
 <a>&nbsp;</a>-->
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
-  <img height="30" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
+  <img height="30" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
 </a>
 <a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
