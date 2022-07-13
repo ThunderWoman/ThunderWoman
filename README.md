@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
-![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman)
+![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=gray)
 
 <a href="https://www.linkedin.com/in/yuliia-sigva-5aa9b417a/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
