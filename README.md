@@ -78,6 +78,8 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 </a>
 
 <br />
+<br />
+
 
 **Activity for the last week :**
 
