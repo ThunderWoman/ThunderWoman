@@ -20,9 +20,10 @@
 Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 
 <br />
-<br />
 
 **Languages and Tools:**  
+
+<br />
 
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
   <img height="30" title="WebStorm" src="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
@@ -76,7 +77,6 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
   <img height="30" title="github" src="https://github.com/ThunderWoman/icons/blob/main/skils/github.png">
 </a>
 
-<br />
 <br />
 
 **Activity for the last week :**
