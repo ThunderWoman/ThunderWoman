@@ -1,16 +1,85 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
-<!--
-**ThunderWoman/ThunderWoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/yuliia-sigva-5aa9b417a/">
+  <img align="left" alt="Linkdin" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
+</a>
+<a href="https://t.me/yuliia_sigva">
+  <img align="left" alt="Telegram" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/telegram.png" />
+</a>
+<a href="https://www.facebook.com/jipinews/">
+  <img align="left" alt="Facebook" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/facebook.png" />
+</a>
+<a href="mailto:yuliiasigva@gmail.com">
+  <img align="left" alt="Mail" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/gmail.png" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
+  <img height="25" title="WebStorm" src="https://github.com/ThunderWoman/icons/blob/main/skils/WebStorm.png">
+</a>
+<!-- <a href="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
+  <img height="25" title="VSC" src="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
+</a> -->
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/JavaScript.png">
+  <img height="25" title="JavaScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/JavaScript.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
+  <img height="25" title="TypeScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
+  <img height="25" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
+  <img height="25" title="NestJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
+  <img height="25" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
+  <img height="25" title="MySQL" src="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/docker.png">
+  <img height="25" title="Docker" src="https://github.com/ThunderWoman/icons/blob/main/skils/docker.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/React.png">
+  <img height="25" title="React" src="https://github.com/ThunderWoman/icons/blob/main/skils/React.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
+  <img height="25" title="Redux" src="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
+  <img height="25" title="Angular" src="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
+  <img height="25" title="Vue" src="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/yarn.png">
+  <img height="25" title="yarn" src="https://github.com/ThunderWoman/icons/blob/main/skils/yarn.png">
+</a>
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/npm.png">
+  <img height="25" title="npm" src="https://github.com/ThunderWoman/icons/blob/main/skils/npm.png">
+</a>
+
+<br />
+<br />
+
+**Activity for the last week :**
+
+<div> 
+  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+</div>
+
+
+<!--START_SECTION:waka-->
+
+```text
+TypeScript        13 hrs          ████████▓░░░░░░░░░░░░░░░░   34.96 %
+JavaScript        6 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+YAML              5 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+JSON              4 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Bash              2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Docker            2
