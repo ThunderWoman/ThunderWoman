@@ -75,6 +75,6 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> 🚀 from Ukraine.
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=ThunderWoman&show_icons=true" alt="myGitStats" > 
+  <img align="centre" width="310px" src="https://github-readme-stats.vercel.app/api?username=ThunderWoman&show_icons=true" alt="myGitStats" > 
 </div>
 
