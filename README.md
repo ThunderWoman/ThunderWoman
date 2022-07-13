@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> 🚀 from Ukraine.
+Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <br />
 
 **Languages and Tools:**  
@@ -35,10 +35,10 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> 🚀 from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
   <img height="25" title="TypeScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
 </a>
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
-  <img height="25" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJs_2.png">
+  <img height="25" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJs_2.png">
 </a>
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/NodeJS.png">
+<a href="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
   <img height="25" title="NestJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
 </a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/MongoDB.png">
@@ -56,9 +56,9 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> 🚀 from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
   <img height="25" title="Redux" src="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
 </a>
-<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
+//<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
   <img height="25" title="Angular" src="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
-</a>
+</a>//
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
   <img height="25" title="Vue" src="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
 </a>
