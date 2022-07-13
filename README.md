@@ -13,7 +13,7 @@
   <img align="left" alt="Mail" width="26px" src="https://github.com/ThunderWoman/icons/blob/main/gmail.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=yellow&width=30px)
+![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=yellow&width="30px")
 
 <br />
 
