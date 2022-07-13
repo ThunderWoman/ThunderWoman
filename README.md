@@ -32,48 +32,63 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
   <img height="30" title="VSC" src="https://github.com/ThunderWoman/icons/blob/main/skils/VisualStudioCode.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/JavaScript.png">
   <img height="30" title="JavaScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/JavaScript.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
   <img height="30" title="TypeScript" src="https://github.com/ThunderWoman/icons/blob/main/skils/TypeScript.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/node_js.png">
   <img height="30" title="NodeJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/node_js.png">
 </a>
+<a>&nbsp;</a>
 <!-- <a href="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
   <img height="30" title="NestJs" src="https://github.com/ThunderWoman/icons/blob/main/skils/nestjs.png">
-</a>-->
+</a>
+<a>&nbsp;</a>-->
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
   <img height="30" title="MongoDB" src="https://github.com/ThunderWoman/icons/blob/main/skils/mongo_DB.jpg">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
   <img height="30" title="MySQL" src="https://github.com/ThunderWoman/icons/blob/main/skils/MySQL.png">
 </a>
+<a>&nbsp;</a>
 <!--<a href="https://github.com/ThunderWoman/icons/blob/main/skils/docker.png">
   <img height="30" title="Docker" src="https://github.com/ThunderWoman/icons/blob/main/skils/docker.png">
-</a>-->
+</a>
+<a>&nbsp;</a>-->
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/React.png">
   <img height="30" title="React" src="https://github.com/ThunderWoman/icons/blob/main/skils/React.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
   <img height="30" title="Redux" src="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
 </a>
+<a>&nbsp;</a>
 <!--<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
   <img height="30" title="Angular" src="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
-</a>-->
+</a>
+<a>&nbsp;</a>-->
 <!--<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
   <img height="30" title="Vue" src="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
-</a>-->
+</a>
+<a>&nbsp;</a>-->
 <!--<a href="https://github.com/ThunderWoman/icons/blob/main/skils/yarn.png">
   <img height="30" title="yarn" src="https://github.com/ThunderWoman/icons/blob/main/skils/yarn.png">
-</a>-->
+</a>
+<a>&nbsp;</a>-->
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/npm.png">
   <img height="30" title="npm" src="https://github.com/ThunderWoman/icons/blob/main/skils/npm.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/git.png">
   <img height="30" title="git" src="https://github.com/ThunderWoman/icons/blob/main/skils/git.png">
 </a>
+<a>&nbsp;</a>
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/github.png">
   <img height="30" title="github" src="https://github.com/ThunderWoman/icons/blob/main/skils/github.png">
 </a>
