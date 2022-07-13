@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
+![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman)
+
 <a href="https://www.linkedin.com/in/yuliia-sigva-5aa9b417a/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
 </a>
@@ -14,6 +16,9 @@
 </a>
 
 <br />
+<br />
+
+Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> 🚀 from Ukraine.
 <br />
 
 **Languages and Tools:**  
@@ -70,16 +75,6 @@
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img align="right" width="310px" src="https://github-readme-stats.vercel.app/api?username=ThunderWoman&show_icons=true" alt="myGitStats" > 
 </div>
 
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript        13 hrs          ████████▓░░░░░░░░░░░░░░░░   34.96 %
-JavaScript        6 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-YAML              5 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-JSON              4 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Bash              2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Docker            2
