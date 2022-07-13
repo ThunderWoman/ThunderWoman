@@ -16,8 +16,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=yellow)
 
 <br />
-<br />
-
 Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <br />
 
@@ -75,7 +73,6 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
   <img height="30" title="github" src="https://github.com/ThunderWoman/icons/blob/main/skils/github.png">
 </a>
 
-<br />
 <br />
 
 **Activity for the last week :**
