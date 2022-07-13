@@ -56,9 +56,9 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
   <img height="25" title="Redux" src="https://github.com/ThunderWoman/icons/blob/main/skils/Redux.png">
 </a>
-//<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
+/*<a href="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
   <img height="25" title="Angular" src="https://github.com/ThunderWoman/icons/blob/main/skils/Angular.png">
-</a>//
+</a>*/
 <a href="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
   <img height="25" title="Vue" src="https://github.com/ThunderWoman/icons/blob/main/skils/Vue.png">
 </a>
