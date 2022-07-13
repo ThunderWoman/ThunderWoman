@@ -1,22 +1,25 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30">
 
 <a href="https://www.linkedin.com/in/yuliia-sigva-5aa9b417a/">
-  <img align="left" alt="Linkdin" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
+  <img align="left" alt="Linkdin" width="25px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
 </a>
 <a href="https://t.me/yuliia_sigva">
-  <img align="left" alt="Telegram" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/telegram.png" />
+  <img align="left" alt="Telegram" width="26px" src="https://github.com/ThunderWoman/icons/blob/main/telegram.png" />
 </a>
 <a href="https://www.facebook.com/jipinews/">
-  <img align="left" alt="Facebook" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/facebook.png" />
+  <img align="left" alt="Facebook" width="26px" src="https://github.com/ThunderWoman/icons/blob/main/facebook.png" />
 </a>
 <a href="mailto:yuliiasigva@gmail.com">
-  <img align="left" alt="Mail" width="24px" src="https://github.com/ThunderWoman/icons/blob/main/gmail.png" />
+  <img align="left" alt="Mail" width="26px" src="https://github.com/ThunderWoman/icons/blob/main/gmail.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=yellow)
+![](https://visitor-badge.glitch.me/badge?page_id=ThunderWoman.ThunderWoman&left_color=green&right_color=yellow&width="26px)
 
 <br />
+
 Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
+
+<br />
 <br />
 
 **Languages and Tools:**  
@@ -74,8 +77,11 @@ Hi, I'm <b>Yuliia Sigva</b>, a <b>Junior Developer</b> from Ukraine.
 </a>
 
 <br />
+<br />
 
 **Activity for the last week :**
+
+<br />
 
 <div> 
   <img align="centre" width="310px" src="https://github-readme-stats.vercel.app/api?username=ThunderWoman&show_icons=true" alt="myGitStats" > 
