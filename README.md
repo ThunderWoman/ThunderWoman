@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30">
 
-<a href="https://www.linkedin.com/in/yuliia-sigva-5aa9b417a/">
+<a href="https://www.linkedin.com/in/yuliia-sigva/">
   <img align="left" alt="Linkdin" width="25px" src="https://github.com/ThunderWoman/icons/blob/main/linkedin.png" />
 </a>
 <a href="https://t.me/yuliia_sigva">
